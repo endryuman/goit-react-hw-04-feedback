@@ -1,0 +1,13 @@
+.optionsWrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.optionsButton {
+  height: 60px;
+  width: 100px;
+  font-size: 40;
+  color: #ffffff;
+  background-color: #7a48e6;
+  border-radius: 10px;
+}
